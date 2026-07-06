@@ -1,0 +1,122 @@
+{
+  "knee_acl_grade1_low": {
+    "bones": [
+      "r_femur__0",
+      "r_tibia__0"
+    ]
+  },
+  "knee_acl_grade2_mild": {
+    "bones": [
+      "l_femur__0",
+      "l_tibia__0"
+    ]
+  },
+  "knee_acl_grade3_high": {
+    "bones": [
+      "r_femur__0",
+      "r_tibia__0"
+    ]
+  },
+  "knee_meniscus_tear_mild": {
+    "bones": [
+      "l_femur__0",
+      "l_tibia__0"
+    ]
+  },
+  "knee_bone_bruise_low": {
+    "bones": [
+      "r_patella__0",
+      "r_femur__0"
+    ]
+  },
+  "spine_l4l5_mild": {
+    "bones": [
+      "l4__0",
+      "l5__0"
+    ]
+  },
+  "spine_l5s1_high": {
+    "bones": [
+      "l5__0",
+      "Sacrum__0"
+    ]
+  },
+  "spine_cervical_c5c6_low": {
+    "bones": [
+      "c5__0",
+      "c6__0"
+    ]
+  },
+  "spine_multilevel_mixed": {
+    "bones": [
+      "l3__0",
+      "l4__0",
+      "l5__0"
+    ]
+  },
+  "shoulder_rotator_cuff_low": {
+    "bones": [
+      "r_humerus__0",
+      "r_scapula__0"
+    ]
+  },
+  "shoulder_rotator_cuff_high": {
+    "bones": [
+      "l_humerus__0",
+      "l_scapula__0"
+    ]
+  },
+  "shoulder_labrum_mild": {
+    "bones": [
+      "r_humerus__0",
+      "r_scapula__0"
+    ]
+  },
+  "shoulder_ambiguous_vague": {
+    "bones": [
+      "l_humerus__0",
+      "l_scapula__0"
+    ]
+  },
+  "wrist_scaphoid_fracture_high": {
+    "bones": [
+      "r_scaphoid__0"
+    ]
+  },
+  "wrist_tfcc_low": {
+    "bones": [
+      "l_ulna__0",
+      "l_radius__0"
+    ]
+  },
+  "hand_metacarpal_fracture_mild": {
+    "bones": [
+      "r_metacarpal5__0"
+    ]
+  },
+  "hip_labral_tear_mild": {
+    "bones": [
+      "r_oscoxa__0",
+      "r_femur__0"
+    ]
+  },
+  "hip_stress_fracture_low": {
+    "bones": [
+      "l_oscoxa__0",
+      "l_femur__0"
+    ]
+  },
+  "ankle_ligament_sprain_low": {
+    "bones": [
+      "r_fibula__0",
+      "r_talus__0"
+    ]
+  },
+  "ankle_fracture_displaced_high": {
+    "bones": [
+      "l_fibula__0",
+      "l_tibia__0",
+      "l_talus__0"
+    ]
+  }
+}

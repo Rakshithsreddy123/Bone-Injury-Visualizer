@@ -1,0 +1,162 @@
+{
+  "ankle_fracture_displaced_high.txt": {
+    "body_part": "ankle",
+    "laterality": "left",
+    "structure": "distal fibula",
+    "injury_type": "displaced fracture",
+    "severity_raw": "high-grade",
+    "severity_tier": "high"
+  },
+  "ankle_ligament_sprain_low.txt": {
+    "body_part": "ankle",
+    "laterality": "right",
+    "structure": "anterior talofibular ligament",
+    "injury_type": "sprain",
+    "severity_raw": "low-grade (Grade I)",
+    "severity_tier": "low"
+  },
+  "hand_metacarpal_fracture_mild.txt": {
+    "body_part": "hand",
+    "laterality": "right",
+    "structure": "fifth metacarpal",
+    "injury_type": "fracture",
+    "severity_raw": "moderate",
+    "severity_tier": "mild"
+  },
+  "hip_labral_tear_mild.txt": {
+    "body_part": "hip",
+    "laterality": "right",
+    "structure": "anterosuperior acetabular labrum",
+    "injury_type": "tear",
+    "severity_raw": "mild to moderate",
+    "severity_tier": "mild"
+  },
+  "hip_stress_fracture_low.txt": {
+    "body_part": "hip",
+    "laterality": "left",
+    "structure": "femoral neck",
+    "injury_type": "stress reaction",
+    "severity_raw": "low-grade, mild",
+    "severity_tier": "low"
+  },
+  "knee_acl_grade1_low.txt": {
+    "body_part": "knee",
+    "laterality": "right",
+    "structure": "anterior cruciate ligament",
+    "injury_type": "sprain",
+    "severity_raw": "Grade I (low-grade)",
+    "severity_tier": "low"
+  },
+  "knee_acl_grade2_mild.txt": {
+    "body_part": "knee",
+    "laterality": "left",
+    "structure": "anterior cruciate ligament",
+    "injury_type": "partial tear",
+    "severity_raw": "Grade II",
+    "severity_tier": "mild"
+  },
+  "knee_acl_grade3_high.txt": {
+    "body_part": "knee",
+    "laterality": "right",
+    "structure": "anterior cruciate ligament",
+    "injury_type": "full-thickness tear",
+    "severity_raw": "Grade III",
+    "severity_tier": "high"
+  },
+  "knee_bone_bruise_low.txt": {
+    "body_part": "knee",
+    "laterality": "right",
+    "structure": "patella",
+    "injury_type": "bone contusion",
+    "severity_raw": "mild",
+    "severity_tier": "mild"
+  },
+  "knee_meniscus_tear_mild.txt": {
+    "body_part": "knee",
+    "laterality": "left",
+    "structure": "medial meniscus",
+    "injury_type": "horizontal tear",
+    "severity_raw": "moderate",
+    "severity_tier": "mild"
+  },
+  "shoulder_ambiguous_vague.txt": {
+    "body_part": "shoulder",
+    "laterality": "left",
+    "structure": "supraspinatus tendon",
+    "injury_type": "tendinosis or partial tear",
+    "severity_raw": "indeterminate signal change, favor tendinosis, partial tear not excluded",
+    "severity_tier": "mild"
+  },
+  "shoulder_labrum_mild.txt": {
+    "body_part": "shoulder",
+    "laterality": "right",
+    "structure": "anteroinferior labrum",
+    "injury_type": "tear",
+    "severity_raw": "moderate",
+    "severity_tier": "mild"
+  },
+  "shoulder_rotator_cuff_high.txt": {
+    "body_part": "shoulder",
+    "laterality": "left",
+    "structure": "supraspinatus tendon",
+    "injury_type": "full-thickness tear",
+    "severity_raw": "high-grade",
+    "severity_tier": "high"
+  },
+  "shoulder_rotator_cuff_low.txt": {
+    "body_part": "shoulder",
+    "laterality": "right",
+    "structure": "supraspinatus tendon",
+    "injury_type": "tendinosis",
+    "severity_raw": "mild, low-grade",
+    "severity_tier": "mild"
+  },
+  "spine_cervical_c5c6_low.txt": {
+    "body_part": "spine",
+    "laterality": null,
+    "structure": "C5-C6 disc",
+    "injury_type": "disc bulge",
+    "severity_raw": "small, low-grade",
+    "severity_tier": "low"
+  },
+  "spine_l4l5_mild.txt": {
+    "body_part": "spine",
+    "laterality": "null",
+    "structure": "L4-L5 disc",
+    "injury_type": "disc bulge",
+    "severity_raw": "mild",
+    "severity_tier": "mild"
+  },
+  "spine_l5s1_high.txt": {
+    "body_part": "spine",
+    "laterality": "null",
+    "structure": "L5-S1 disc",
+    "injury_type": "disc herniation",
+    "severity_raw": "large, high-grade",
+    "severity_tier": "high"
+  },
+  "spine_multilevel_mixed.txt": {
+    "body_part": "spine",
+    "laterality": "null",
+    "structure": "L4-L5 disc",
+    "injury_type": "disc herniation/bulge with stenosis",
+    "severity_raw": "moderate",
+    "severity_tier": "mild"
+  },
+  "wrist_scaphoid_fracture_high.txt": {
+    "body_part": "wrist",
+    "laterality": "right",
+    "structure": "scaphoid",
+    "injury_type": "nondisplaced fracture",
+    "severity_raw": "high clinical significance",
+    "severity_tier": "high"
+  },
+  "wrist_tfcc_low.txt": {
+    "body_part": "wrist",
+    "laterality": "left",
+    "structure": "TFCC",
+    "injury_type": "partial tear",
+    "severity_raw": "mild, low-grade",
+    "severity_tier": "mild"
+  }
+}
