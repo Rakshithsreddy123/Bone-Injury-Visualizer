@@ -16,10 +16,20 @@ from mapping.bone_lookup import build_viewer_payload
 
 app = FastAPI(title="Bone Injury Visualizer API")
 
+# Get frontend URL from environment variable, default to localhost for dev
+FRONTEND_URL = os.getenv("FRONTEND_URL", "http://localhost:5173")
+
+# Allow multiple origins (dev + prod)
+ALLOWED_ORIGINS = [
+    "http://localhost:5173",  # Vite dev server
+    "http://localhost:3000",  # Alternative dev port
+    FRONTEND_URL,  # Your production frontend URL
+]
+
 # allow the React dev server to call this backend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Vite's default dev server port
+    allow_origins=ALLOWED_ORIGINS,  # Accepts a list!
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
